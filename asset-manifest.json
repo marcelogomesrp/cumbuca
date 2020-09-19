@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/cumbuca/static/css/main.5f361e03.chunk.css",
-    "main.js": "/cumbuca/static/js/main.d3027aa1.chunk.js",
-    "main.js.map": "/cumbuca/static/js/main.d3027aa1.chunk.js.map",
+    "main.js": "/cumbuca/static/js/main.5d977240.chunk.js",
+    "main.js.map": "/cumbuca/static/js/main.5d977240.chunk.js.map",
     "runtime-main.js": "/cumbuca/static/js/runtime-main.2c1a9e8c.js",
     "runtime-main.js.map": "/cumbuca/static/js/runtime-main.2c1a9e8c.js.map",
     "static/js/2.00af5312.chunk.js": "/cumbuca/static/js/2.00af5312.chunk.js",
     "static/js/2.00af5312.chunk.js.map": "/cumbuca/static/js/2.00af5312.chunk.js.map",
     "index.html": "/cumbuca/index.html",
-    "precache-manifest.ded73e38ed80bc6f9dd189154be0cb9d.js": "/cumbuca/precache-manifest.ded73e38ed80bc6f9dd189154be0cb9d.js",
+    "precache-manifest.992c6aca310ee64c935c9680c50f1b23.js": "/cumbuca/precache-manifest.992c6aca310ee64c935c9680c50f1b23.js",
     "service-worker.js": "/cumbuca/service-worker.js",
     "static/css/main.5f361e03.chunk.css.map": "/cumbuca/static/css/main.5f361e03.chunk.css.map",
     "static/js/2.00af5312.chunk.js.LICENSE.txt": "/cumbuca/static/js/2.00af5312.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/cumbuca/static/media/logo.5d5d9eef.svg"
+    "static/media/logo.svg": "/cumbuca/static/media/logo.767fe254.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.2c1a9e8c.js",
     "static/js/2.00af5312.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.d3027aa1.chunk.js"
+    "static/js/main.5d977240.chunk.js"
   ]
 }

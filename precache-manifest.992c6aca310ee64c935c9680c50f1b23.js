@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2dcac3ef9fbe76959f4de5afbdaf4f40",
+    "revision": "e569cd0ef8d81ce96940a55de57f7838",
     "url": "/cumbuca/index.html"
   },
   {
-    "revision": "04210ce956858bae0f21",
+    "revision": "dea11e5f232af4b55444",
     "url": "/cumbuca/static/css/main.5f361e03.chunk.css"
   },
   {
@@ -16,15 +16,15 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/cumbuca/static/js/2.00af5312.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "04210ce956858bae0f21",
-    "url": "/cumbuca/static/js/main.d3027aa1.chunk.js"
+    "revision": "dea11e5f232af4b55444",
+    "url": "/cumbuca/static/js/main.5d977240.chunk.js"
   },
   {
     "revision": "f72985e8b504cbe7ad2f",
     "url": "/cumbuca/static/js/runtime-main.2c1a9e8c.js"
   },
   {
-    "revision": "5d5d9eefa31e5e13a6610d9fa7a283bb",
-    "url": "/cumbuca/static/media/logo.5d5d9eef.svg"
+    "revision": "767fe254b8645c9203782d891448fd24",
+    "url": "/cumbuca/static/media/logo.767fe254.svg"
   }
 ]);
