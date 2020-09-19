@@ -2,7 +2,7 @@
   "name": "cumbuca",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://marcelogomesrp.github.io/cumbuca/",
+  "homepage": "https://marcelogomesrp.github.io/cumbuca",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
