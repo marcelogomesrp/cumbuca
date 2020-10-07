@@ -1,23 +1,27 @@
 {
   "files": {
-    "main.css": "/cumbuca/static/css/main.5f361e03.chunk.css",
-    "main.js": "/cumbuca/static/js/main.5d977240.chunk.js",
-    "main.js.map": "/cumbuca/static/js/main.5d977240.chunk.js.map",
+    "main.css": "/cumbuca/static/css/main.174eae1f.chunk.css",
+    "main.js": "/cumbuca/static/js/main.5c661e23.chunk.js",
+    "main.js.map": "/cumbuca/static/js/main.5c661e23.chunk.js.map",
     "runtime-main.js": "/cumbuca/static/js/runtime-main.2c1a9e8c.js",
     "runtime-main.js.map": "/cumbuca/static/js/runtime-main.2c1a9e8c.js.map",
-    "static/js/2.00af5312.chunk.js": "/cumbuca/static/js/2.00af5312.chunk.js",
-    "static/js/2.00af5312.chunk.js.map": "/cumbuca/static/js/2.00af5312.chunk.js.map",
+    "static/js/2.82693ca1.chunk.js": "/cumbuca/static/js/2.82693ca1.chunk.js",
+    "static/js/2.82693ca1.chunk.js.map": "/cumbuca/static/js/2.82693ca1.chunk.js.map",
     "index.html": "/cumbuca/index.html",
-    "precache-manifest.992c6aca310ee64c935c9680c50f1b23.js": "/cumbuca/precache-manifest.992c6aca310ee64c935c9680c50f1b23.js",
+    "precache-manifest.3cf764028543b1d8755bf905cc6e7353.js": "/cumbuca/precache-manifest.3cf764028543b1d8755bf905cc6e7353.js",
     "service-worker.js": "/cumbuca/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/cumbuca/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.00af5312.chunk.js.LICENSE.txt": "/cumbuca/static/js/2.00af5312.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/cumbuca/static/media/logo.767fe254.svg"
+    "static/css/main.174eae1f.chunk.css.map": "/cumbuca/static/css/main.174eae1f.chunk.css.map",
+    "static/js/2.82693ca1.chunk.js.LICENSE.txt": "/cumbuca/static/js/2.82693ca1.chunk.js.LICENSE.txt",
+    "static/media/acai.jpg": "/cumbuca/static/media/acai.e9843da8.jpg",
+    "static/media/caldos.jpg": "/cumbuca/static/media/caldos.e1bd93ca.jpg",
+    "static/media/capa.jpg": "/cumbuca/static/media/capa.e85d49cb.jpg",
+    "static/media/logo.svg": "/cumbuca/static/media/logo.767fe254.svg",
+    "static/media/picole.jpg": "/cumbuca/static/media/picole.7f2e4143.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.2c1a9e8c.js",
-    "static/js/2.00af5312.chunk.js",
-    "static/css/main.5f361e03.chunk.css",
-    "static/js/main.5d977240.chunk.js"
+    "static/js/2.82693ca1.chunk.js",
+    "static/css/main.174eae1f.chunk.css",
+    "static/js/main.5c661e23.chunk.js"
   ]
 }
